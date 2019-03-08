@@ -14,6 +14,7 @@ import java.util.Set;
  * private methods or classes if you like.
  */
 public class Extract {
+	// demo commit
 
     /**
      * Get the time period spanned by tweets.
